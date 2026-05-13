@@ -24,7 +24,7 @@ FreelanceHub is a full-stack web application built as a graduation project at Co
 
 ## 📅 Status
 
-🔨 In active development (2025–2026)
+🔨 In active development (2026–2027)
 
 ## 👨‍💻 Author
 
